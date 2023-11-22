@@ -1,0 +1,244 @@
+[
+    [
+        {
+            "id": 340202,
+            "name": "Форель Карельская потрошеная с головой",
+            "link": "https://online.metro-cc.ru/products/forel-karelskaya-1-2kg",
+            "new_price": 649,
+            "old_price": 799,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 378227,
+            "name": "Лосось стейк охлажденный собственное производство Мурманск",
+            "link": "https://online.metro-cc.ru/products/losos-murmanskij-stejk",
+            "new_price": 2699,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 135436,
+            "name": "Лосось мурманский филе на коже Тримм А охлажденный",
+            "link": "https://online.metro-cc.ru/products/murmanskij-file-na-kozhe-trimm-a-135436",
+            "new_price": 2699,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 409763,
+            "name": "Лосось Inarctica Мурманский охлажденный, ~4-5кг",
+            "link": "https://online.metro-cc.ru/products/losos-murmanskij-4-5kg-inarctica",
+            "new_price": 1899,
+            "old_price": null,
+            "brand": "INARCTICA"
+        },
+        {
+            "id": 572256,
+            "name": "Карп жаброванный потрошеный с головой",
+            "link": "https://online.metro-cc.ru/products/karp-zhabrovannyj-potroshennyj-s-golovoj",
+            "new_price": 439,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 413567,
+            "name": "Лосось Inarctica Мурманский охлажденный, ~3-4кг",
+            "link": "https://online.metro-cc.ru/products/losos-murmanskij-3-4-inarctica",
+            "new_price": 1749,
+            "old_price": null,
+            "brand": "INARCTICA"
+        },
+        {
+            "id": 409762,
+            "name": "Лосось Inarctica Мурманский охлажденный, ~5-6кг",
+            "link": "https://online.metro-cc.ru/products/losos-murmanskij-5-6kg-inarctica",
+            "new_price": 2099,
+            "old_price": null,
+            "brand": "INARCTICA"
+        },
+        {
+            "id": 409761,
+            "name": "Лосось Inarctica Мурманский охлажденный, ~6-7кг",
+            "link": "https://online.metro-cc.ru/products/losos-murmanskij-6-7kg-inarctica",
+            "new_price": 2099,
+            "old_price": null,
+            "brand": "INARCTICA"
+        },
+        {
+            "id": 12437,
+            "name": "Лосось филе на коже охлажденный Мурманск, 1.4-2кг",
+            "link": "https://online.metro-cc.ru/products/losos-file-na-kozhe-v-vakuumnoj-upakovke-12437",
+            "new_price": 2649,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 320046,
+            "name": "Тунец красный филе, ~0.7-1.2кг",
+            "link": "https://online.metro-cc.ru/products/tunec-krasnyj-file-07-12kg",
+            "new_price": 2349,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 435035,
+            "name": "Треска потрошенная без головы охлажденная, ~1-2кг",
+            "link": "https://online.metro-cc.ru/products/treska-potroshennaya-bez-golovy-1kg",
+            "new_price": 549,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 405358,
+            "name": "Палтус тушка охлажденная, ~0.5-1кг",
+            "link": "https://online.metro-cc.ru/products/paltus-tushka",
+            "new_price": 1098,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 511783,
+            "name": "Скумбрия неразделанная охлажденная",
+            "link": "https://online.metro-cc.ru/products/skumbriya-nerazdelannaya",
+            "new_price": 449,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 207760,
+            "name": "Сибас, ~400-600г",
+            "link": "https://online.metro-cc.ru/products/sibas-400-600g-207760",
+            "new_price": 969,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 454563,
+            "name": "Форель потрошеная охлажденная Карелия, ~2-3кг",
+            "link": "https://online.metro-cc.ru/products/forel-kareliya-potroshenaya",
+            "new_price": 839,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 3321,
+            "name": "Тунец красный филе охлажденный, ~2-3кг",
+            "link": "https://online.metro-cc.ru/products/tunec-krasnyj-file-2-3kg-3321",
+            "new_price": 1899,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 329525,
+            "name": "Треска потрошеная без головы охлажденная, ~0.5-1кг",
+            "link": "https://online.metro-cc.ru/products/treska-potroshennaya-bez-golovy-ohl-vesovoj",
+            "new_price": 489,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 212969,
+            "name": "Палтус стейк охлажденный, ~150-250г",
+            "link": "https://online.metro-cc.ru/products/150-250g-paltus-steyk-ohl",
+            "new_price": 1549,
+            "old_price": 1599,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 543946,
+            "name": "Щука филе на коже охлажденная",
+            "link": "https://online.metro-cc.ru/products/schuka-file-na-kozhe",
+            "new_price": 999,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 572257,
+            "name": "Сом канальный потрошеный с головой жаброванный охлажденный",
+            "link": "https://online.metro-cc.ru/products/som-kanalnyj-psg-zhabrovannyj",
+            "new_price": 559,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 543820,
+            "name": "Лакедра-желтохвост неразделанная охлажденная",
+            "link": "https://online.metro-cc.ru/products/tunec-zheltohvostyj-08-13",
+            "new_price": 579,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 316836,
+            "name": "Карась охлажденный",
+            "link": "https://online.metro-cc.ru/products/karas",
+            "new_price": 189,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 662796,
+            "name": "Кижуч Чили стейк охлажденный",
+            "link": "https://online.metro-cc.ru/products/kizhuch-stejk",
+            "new_price": 2159,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 453395,
+            "name": "Стерлядь неразделанная охлажденная, ~1-2кг",
+            "link": "https://online.metro-cc.ru/products/sterlyad-nerazdelannaya-1-2kg",
+            "new_price": 2199,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 90845,
+            "name": "Сибас филе на коже",
+            "link": "https://online.metro-cc.ru/products/sibas-file-na-kozhe-90845",
+            "new_price": 1999,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 90844,
+            "name": "Дорада филе на коже",
+            "link": "https://online.metro-cc.ru/products/dorada-file-na-kozhe-90844",
+            "new_price": 1799,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 521910,
+            "name": "Ряпушка охлажденная",
+            "link": "https://online.metro-cc.ru/products/ryapushka",
+            "new_price": 479,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 93036,
+            "name": "Судак неразделанный, ~500г",
+            "link": "https://online.metro-cc.ru/products/sudak-krupnyj-nerazdelannyj-93036",
+            "new_price": 649,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 213954,
+            "name": "Рыба молочная охлажденная, ~700г",
+            "link": "https://online.metro-cc.ru/products/molochnaya-ryba-ohl",
+            "new_price": 939,
+            "old_price": null,
+            "brand": "Без бренда"
+        },
+        {
+            "id": 448253,
+            "name": "Камбала без головы потрошенная, ~200-400г",
+            "link": "https://online.metro-cc.ru/products/kambala-potroshennaya-bez-golovy-300-500g",
+            "new_price": 499,
+            "old_price": null,
+            "brand": "Без бренда"
+        }
+    ]
+]
