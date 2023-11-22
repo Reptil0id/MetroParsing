@@ -5,20 +5,12 @@ import threading
 from bs4 import BeautifulSoup
 
 def fetch_data_list(url, store_id):
-    # Создаем сессию, чтобы сохранить cookies
     session = requests.Session()
 
-    # Устанавливаем cookies с идентификатором магазина и категорией, если это необходимо
     session.cookies.set('metroStoreId', store_id)
 
-    # Тут может быть дополнительная логика для установки cookies или заголовков, если это требуется
-    # ...
-
-    # Отправляем HTTP GET запрос
     response = session.get(url)
-    # Проверяем, получен ли успешный ответ
     if response.ok:
-        # Создаем объект BeautifulSoup
         soup = BeautifulSoup(response.text, 'html.parser')
         return soup
     else:
@@ -110,13 +102,10 @@ if __name__ == '__main__':
 
     data = []
 
-    # store_id = input('Введите ID магазина: ')
-    # category = input('Введите наименование категории товаров: ')
-    # pod_category = input('Введите наименование под категории товаров: ')
+    store_id = input('Введите ID магазина: ')
+    category = input('Введите наименование категории товаров: ')
+    subcategory = input('Введите наименование подкатегории товаров: ')
     
-    store_id = '15'
-    category = 'chaj-kofe-kakao'
-    subcategory = 'kofe'
     file_path = f'store_id_{store_id}_category_{category}_subcategory_{subcategory}.json'
 
     base_url = 'https://online.metro-cc.ru'
